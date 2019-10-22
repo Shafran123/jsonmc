@@ -50,7 +50,7 @@ Make sure to always reference your pull requests with the respective issue by ad
     "Laura Dern",
     "Jeff Goldblum"
   ],
-  "storyline": "Huge advancements in scientific technology have enabled a mogul ... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
+  "storyline": "Huge advancements in scientific technology have enabled a mogul .... critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island"
 }
 ```
 ## Contributing
