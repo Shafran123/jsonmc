@@ -1,0 +1,22 @@
+{
+    "name": "Crawl",
+    "year": 2019,
+    "runtime": 127,
+    "categories": [
+      "horror",
+      "action",
+      "drama"
+    ],
+    "release-date": "2019-07-12",
+    "director": "Alexandre Aja",
+    "writer": [
+        "Michael Rasmussen",
+        "Shawn Rasmussen"
+    ],
+    "actors": [
+        "Kaya Scodelario", 
+        "Barry Pepper", 
+        "Morfydd Clark"
+    ],
+    "storyline": "A young woman, while attempting to save her father during a category 5 hurricane, finds herself trapped in a flooding house and must fight for her life against alligators."
+  }
